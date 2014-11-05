@@ -1,4 +1,5 @@
 Bundle "briancollins/vim-jst"
+Bundle "fatih/vim-go"
 Bundle "pangloss/vim-javascript"
 Bundle "rodjek/vim-puppet"
 Bundle "othree/javascript-libraries-syntax.vim"
